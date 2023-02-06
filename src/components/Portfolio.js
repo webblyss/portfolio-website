@@ -12,6 +12,14 @@ const Portfolio = () => {
 
         },
         {
+            "name": "Chat application",
+            "desc": "Room chat application build with django,Html,css,js,ajax",
+            "img": "https://user-images.githubusercontent.com/60282806/190467924-e0809171-cc02-4c73-ab3f-1d431cf7e36d.gif",
+            "gif": "gif image line here",
+            "github": "https://github.com/webblyss/django-chat-application",
+
+        },
+        {
             "name": "E-commerce",
             "desc": "Shopping application web application build with django,Html,css,js,ajax",
             "img": "https://user-images.githubusercontent.com/60282806/187327642-1ac9f5eb-7ec8-4646-ae1c-c16fd586a3ce.gif",

@@ -5,8 +5,6 @@ import Portfolio from "./components/Portfolio";
 import Contact from "./components/Contact";
 import Socials from "./components/Socials";
 
-
-// 0541148335
 function App() {
   return ( 
     <div className="App">
