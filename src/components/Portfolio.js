@@ -56,7 +56,7 @@ const Portfolio = () => {
         <section id='portfolio'>
             <div className='w-screen grid gap-5 items-center justify-evenly p-3'>
                 <div className="">
-                    <h4 className='text-center font-bold underline'>My Projects</h4>
+                    <h4 className='text-center text-2xl font-bold underline'>My Projects</h4>
                     {/* PROJECT CARDS */}
                     <div className="md:flex flex-wrap justify-center items-center grid gap-5">
                         {
@@ -74,7 +74,6 @@ const Portfolio = () => {
                                     </div>
                                    
                                 </div>
-
                             })
                         }
                     </div>
