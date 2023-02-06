@@ -20,14 +20,6 @@ const Portfolio = () => {
 
         },
         {
-            "name": "Finance Mobile Application",
-            "desc": "Banking mobile application build with flutter and firebase",
-            "img": "https://user-images.githubusercontent.com/60282806/189813734-3d520083-157f-4d53-83ca-c03df99547b6.jpg",
-            "gif": "gif image line here",
-            "github": "https://github.com",
-
-        },
-        {
             "name": "E-commerce web application",
             "desc": "An E-commerce web application build with react.js,redux with paypal integration",
             "img": "https://user-images.githubusercontent.com/60282806/211208754-966fd9de-a3db-4dcc-9201-a0a4827eed72.png",
