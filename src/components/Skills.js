@@ -14,6 +14,7 @@ const Skills = () => {
                 <li className='p-4'>HTML</li>
                 <li className='p-4'>CSS</li>
                 <li className='p-4'>Javascript</li>
+                <li className='p-4'>Axios</li>
                 <li className='p-4'>React.JS</li>
                 <li className='p-4'>Redux</li>
                 <li  className='p-4'>Tailwind</li>
