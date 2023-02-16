@@ -7,7 +7,7 @@ const Skills = () => {
     <h4 className='text-3xl font-light underline'>Skills</h4>
 
     <div className="md:flex gap-5 container w-screen mx-auto justify-evenly items-center mt-5">
-        <div className=" w-[90%] h-[300px]  p-4 my-5 shadow flex flex-col mx-auto hover:bg-gray-800 hover:text-white rounded-[10px]">
+        <div className=" w-[90%]  p-4 my-5 shadow flex flex-col mx-auto hover:bg-gray-800 hover:text-white rounded-[10px]">
             <h5 className='font-bold text-center'>Frontend Development Skills</h5>
 
             <ul className='grid grid-cols-3 justify-center items-center mt-5 '>
@@ -21,7 +21,7 @@ const Skills = () => {
             </ul>
         </div>
 
-        <div className=" w-[90%] h-[300px]  p-4 my-5 shadow flex flex-col mx-auto hover:bg-gray-800 hover:text-white rounded-[10px]">
+        <div className=" w-[90%]   p-4 my-5 shadow flex flex-col mx-auto hover:bg-gray-800 hover:text-white rounded-[10px]">
             <h5 className='font-bold text-center'>Backend Development Skills</h5>
 
             <ul className='grid grid-cols-2 justify-center items-center mt-5'>
@@ -38,7 +38,7 @@ const Skills = () => {
             </ul>
         </div>
 
-        <div className=" w-[90%] h-[300px]  p-4 my-5 shadow flex flex-col mx-auto hover:bg-gray-800 hover:text-white rounded-[10px]">
+        <div className=" w-[90%]   p-4 my-5 shadow flex flex-col mx-auto hover:bg-gray-800 hover:text-white rounded-[10px]">
             <h5 className='font-bold text-center'>Tools and Technologies</h5>
             <ul className='grid grid-cols-2 justify-center items-center mt-5'>
                 <li className='p-4'>VS Code</li>
