@@ -27,6 +27,7 @@ const Skills = () => {
             <ul className='grid grid-cols-2 justify-center items-center mt-5'>
                 <li className='p-4'>Nodejs</li>
                 <li className='p-4'>Typescript</li>
+                <li className='p-4'>Numpy,Pandas</li>
                 <li className='p-4'>Express</li>
                 <li className='p-4'>MongoDB</li>
                 <li className='p-4'>PostgresQL</li>
@@ -45,6 +46,7 @@ const Skills = () => {
                 <li className='p-4'>Docker</li>
                 <li className='p-4'>GitHub/Git</li>
                 <li className='p-4'>LINUX</li>
+                <li className='p-4'>Jupyter Notebook</li>
                 <li className='p-4'>VIM</li>
             </ul>
         </div>
