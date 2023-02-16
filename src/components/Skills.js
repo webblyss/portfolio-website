@@ -31,6 +31,7 @@ const Skills = () => {
                 <li className='p-4'>MongoDB</li>
                 <li className='p-4'>PostgresQL</li>
                 <li className='p-4'>Python</li>
+                <li className='p-4'>Flask</li>
                 <li className='p-4'>Django</li>
                 <li className='p-4'>C#</li>
             </ul>
