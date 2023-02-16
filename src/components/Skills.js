@@ -23,7 +23,6 @@ const Skills = () => {
 
         <div className=" w-[90%]   p-4 my-5 shadow flex flex-col mx-auto hover:bg-gray-800 hover:text-white rounded-[10px]">
             <h5 className='font-bold text-center'>Backend Development Skills</h5>
-
             <ul className='grid grid-cols-2 justify-center items-center mt-5'>
                 <li className='p-4'>Nodejs</li>
                 <li className='p-4'>Typescript</li>
@@ -45,6 +44,7 @@ const Skills = () => {
                 <li className='p-4'>Android Studio</li>
                 <li className='p-4'>Docker</li>
                 <li className='p-4'>GitHub/Git</li>
+                <li className='p-4'>Trello</li>
                 <li className='p-4'>LINUX</li>
                 <li className='p-4'>Jupyter Notebook</li>
                 <li className='p-4'>VIM</li>
