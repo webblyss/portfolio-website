@@ -8,7 +8,7 @@ const [nav,setNav] = useState(false);
 
 const handleNav = ()=>setNav(!nav);
   return (
-    <div className='w-screen h-[50px] z-10 bg-zinc-200 sticky top-0 drop-shadow-lg '>
+    <div className='w-[50%] h-[50px] z-10 bg-zinc-200 sticky top-0 drop-shadow-lg '>
       <div className="px-2 flex items-center justify-between w-full h-full">
       <div className=" flex items-center">
         <h4 className='text-3xl font-bold mr-4 sm:text-4xl'>Brand</h4>
@@ -32,8 +32,8 @@ const handleNav = ()=>setNav(!nav);
       </div>
 
       {/* RESPONSIVE NAVIGATION */}
-      <ul className={!nav?'hidden' : 'absolute bg-zinc-200 w-full px-8'}>
-      <li className='mx-4 cursor-pointer hover:bg-purple-500 transition-all p-2 hover:text-white'>Home</li>
+      <ul className={!nav ? 'hidden' : 'absolute bg-zinc-200 w-full px-8'}>
+      <li className= 'mx-4 cursor-pointer hover:bg-purple-500 transition-all p-2 hover:text-white'>Home</li>
           <li className='border-b-2 mx-4 cursor-pointer hover:bg-purple-500 transition-all p-2 hover:text-white'>About</li>
           <li className='border-b-2 mx-4 cursor-pointer hover:bg-purple-500 transition-all p-2 hover:text-white'>Experience</li>
           <li className='border-b-2 mx-4 cursor-pointer hover:bg-purple-500 transition-all p-2 hover:text-white'>Skills</li>

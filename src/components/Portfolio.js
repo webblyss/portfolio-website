@@ -59,6 +59,13 @@ const Portfolio = () => {
             "gif": "gif image line here",
             "github": "https://github.com/webblyss/LinkedIn_clone_django-",
         },
+        {
+            "name": "Fitness mobile application",
+            "desc": "Fitness mobile application build with Flutter",
+            "img": "https://user-images.githubusercontent.com/60282806/223475360-06419a99-8701-4aee-9df8-d7c1a287b15a.png",
+            "gif": "gif image line here",
+            "github": "https://github.com/webblyss/body_buiding-app",
+        },
     ];
     return (
         <section id='portfolio'>
@@ -70,7 +77,7 @@ const Portfolio = () => {
                         {
                             projects.map((value, index) => {
                                 return <div class="max-w-sm rounded overflow-hidden shadow-lg mt-5">
-                                    <img class="w-full cursor-pointer" src={value.img} alt="" />
+                                    <img class="w-full cursor-pointer " src={value.img} alt="" />
                                     <div class="px-6 py-4">
                                         <h4 className='font-bold my-3'>{value.name}</h4>
                                         <p class="text-gray-700 text-base">
