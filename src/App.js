@@ -4,7 +4,6 @@ import Skills from "./components/Skills";
 import Portfolio from "./components/Portfolio";
 import Contact from "./components/Contact";
 import Socials from "./components/Socials";
-
 function App() {
   return ( 
     <div className="App">

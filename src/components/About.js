@@ -8,7 +8,7 @@ const About = () => {
                 <div className="md:w-[40%] w-screen flex flex-col justify-center items-center">
                     <h4 className='underline text-3xl my-5'>About Me</h4>
                     <span className="px-5 text-justify text-sm">
-                        As a Full-Stack Developer, I have expertise in both front-end and back-end development, allowing me to build complete web applications from start to finish.I am looking for a company where i can put my skills to work
+                    I'm a full-stack developer who's passionate about using technology to solve real-world problems. I have experience working on both front-end and back-end development projects and enjoy working with a variety of programming languages and frameworks
                         <a download href={CV}className="mx-3 underline text-blue-500">Download cv</a>
                     </span>
                     

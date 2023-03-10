@@ -6,7 +6,7 @@ const Skills = () => {
      <div className='w-screen mb-10 flex flex-col justify-center items-center'>
     <h4 className='text-3xl font-light underline'>Skills</h4>
 
-    <div className="md:flex gap-5 container w-screen mx-auto justify-evenly items-center mt-5">
+    <div className="md:flex flex-wrap gap-5 container w-screen mx-auto justify-evenly items-center mt-5">
         <div className=" w-[90%]  p-4 my-5 shadow flex flex-col mx-auto hover:bg-gray-800 hover:text-white rounded-[10px]">
             <h5 className='font-bold text-center'>Frontend Development Skills</h5>
 
@@ -50,6 +50,18 @@ const Skills = () => {
                 <li className='p-4'>LINUX</li>
                 <li className='p-4'>Jupyter Notebook</li>
                 <li className='p-4'>VIM</li>
+            </ul>
+        </div>
+
+        <div className=" w-[90%]   p-4 my-5 shadow flex flex-col mx-auto hover:bg-gray-800 hover:text-white rounded-[10px]">
+            <h5 className='font-bold text-center'>Soft Skills</h5>
+            <ul className='grid grid-cols-2 justify-center items-center mt-5'>
+                <li className='p-4'>Effective Communication</li>
+                <li className='p-4'>Collaboration</li>
+                <li className='p-4'>Problem-solving</li>
+                <li className='p-4'>Adaptability</li>
+                <li className='p-4'>Time management</li>
+                <li className='p-4'>Creativity</li>
             </ul>
         </div>
     </div>

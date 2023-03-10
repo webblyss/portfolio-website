@@ -10,8 +10,8 @@ const IntroSection = () => {
       <div className='w-screen mb-10 h-[600px] bg-gray-800 flex flex-col items-center justify-center'>
         <img src={IMG1} alt="" className='w-[200px] rounded-full' />
         <div className="my-3 flex flex-col items-center justify-center">
-          <h1 className='flex text-orange-400 font-bold text-3xl items-center justify-center'>Hello!! <AiFillSmile className='mx-3 text-orange' /> </h1>
-          <span className='font-extralight text-white text-3xl sm:text-4xl'>My name is Solomon</span>
+          <h1 className='flex text-orange-400 font-bold text-3xl items-center justify-center'>Hello!! 👋🏻</h1>
+          <span className='font-extralight text-white text-3xl sm:text-4xl'>My name is Solomon</span> 
           <span className='font-extralight text-white text-3xl sm:text-4xl'>full stack developer</span>
         </div>
 
