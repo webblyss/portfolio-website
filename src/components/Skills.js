@@ -28,7 +28,7 @@ const Skills = () => {
             <ul className='grid grid-cols-2 justify-center items-center mt-5'>
                 <li className='p-4'>Nodejs</li>
                 <li className='p-4'>Typescript</li>
-                <li className='p-4'>Numpy,Pandas</li>
+                <li className='p-4'>DRF</li>
                 <li className='p-4'>Express</li>
                 <li className='p-4'>MongoDB</li>
                 <li className='p-4'>PostgresQL</li>
