@@ -1,6 +1,5 @@
 import React from 'react'
-import IMG1 from '../assets/profile.jpg';
-import { AiFillSmile } from 'react-icons/ai';
+import IMG1 from '../assets/profile.png';
 import { AiFillLinkedin } from 'react-icons/ai';
 import { AiFillGithub } from 'react-icons/ai';
 import { AiFillPhone } from 'react-icons/ai';
